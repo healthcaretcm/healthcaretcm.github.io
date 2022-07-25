@@ -3,6 +3,7 @@ plugins:
 relative_links:
   enabled: true
   collections: true
+masthead_title: "Health Care TCM Treatment Center"
 include:
   - index.md
   - products
